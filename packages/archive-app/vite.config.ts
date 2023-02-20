@@ -16,7 +16,7 @@ const external = [/^@idux\/archive-utils/, /^virtual:archive/, '__External_Vue__
 
 export default defineConfig({
   plugins: [
-    vue(),
+    vue(),asdasd
     vueJsx({ enableObjectSlots: false }),
     {
       name: 'transform-external-vue',
